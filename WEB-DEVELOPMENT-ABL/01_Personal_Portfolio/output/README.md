@@ -1,0 +1,1 @@
+Save browser screenshots of the portfolio page in this folder (desktop and mobile views).
