@@ -1,1 +1,0 @@
-Upload screenshots of the College Information website here. Include desktop and mobile views if available.
