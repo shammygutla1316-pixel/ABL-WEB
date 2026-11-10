@@ -1,1 +1,0 @@
-Save browser screenshots of the college information page in this folder (desktop and mobile views).
